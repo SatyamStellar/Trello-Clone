@@ -29,8 +29,6 @@ A responsive and functional Trello clone built with React, featuring drag-and-dr
 ---
 
 ## 📁 Project Structure
-
-.
 ├── src/
 │ ├── components/ # React components <br>
 │ ├── context/ # React context for state management <br>
