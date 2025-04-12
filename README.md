@@ -32,15 +32,15 @@ A responsive and functional Trello clone built with React, featuring drag-and-dr
 
 .
 ├── src/
-│ ├── components/ # React components
-│ ├── context/ # React context for state management
-│ ├── assets/ # Static assets
-│ ├── utils/ # Utility functions
-│ ├── App.jsx # Main App component
-│ ├── main.jsx # Entry point
-│ └── index.css # Global styles
-├── public/ # Public assets
-└── ...config files # Configuration files
+│ ├── components/ # React components <br>
+│ ├── context/ # React context for state management <br>
+│ ├── assets/ # Static assets <br>
+│ ├── utils/ # Utility functions <br>
+│ ├── App.jsx # Main App component <br>
+│ ├── main.jsx # Entry point <br>
+│ └── index.css # Global styles <br>
+├── public/ # Public assets <br>
+└── ...config files # Configuration files <br>
 
 ## 🚀 Installation
 
