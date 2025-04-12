@@ -1,9 +1,62 @@
-# React + Vite
+# Trello Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and functional Trello clone built with React, featuring drag-and-drop capabilities, board management, and a clean user interface.
 
-Currently, two official plugins are available:
+![Trello Clone Preview](./public/preview.png) <!-- Replace with actual image path if different -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Trello-Clone
+---
+
+## ✨ Features
+
+- **Board Management**: Create, view, and manage multiple boards
+- **List & Card System**: Create lists and add cards to organize your tasks
+- **Drag & Drop**: Intuitive drag and drop functionality for cards and lists
+- **Responsive Design**: Works on desktop and mobile devices
+- **Collapsible Sidebar**: Space-efficient UI with collapsible navigation
+- **Custom Theming**: Personalize boards with custom background colors
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** – Frontend library
+- **Tailwind CSS** – Utility-first CSS framework
+- **react-beautiful-dnd** – Drag and drop for lists and cards
+- **react-feather** – Icon library
+- **react-tiny-popover** – Lightweight popover component
+- **Vite** – Next generation frontend tooling
+
+---
+
+## 📁 Project Structure
+
+.
+├── src/
+│ ├── components/ # React components
+│ ├── context/ # React context for state management
+│ ├── assets/ # Static assets
+│ ├── utils/ # Utility functions
+│ ├── App.jsx # Main App component
+│ ├── main.jsx # Entry point
+│ └── index.css # Global styles
+├── public/ # Public assets
+└── ...config files # Configuration files
+
+## 🚀 Installation
+
+> This project uses **pnpm** as the package manager. Make sure you have it installed globally:
+
+```bash
+npm install -g pnpm
+
+```
+
+### Clone the repository
+
+```bash
+git clone https://github.com/yourusername/trelloclone.git
+cd trelloclone
+pnpm install
+```
+
+### Made with 🩶 by Satyam
