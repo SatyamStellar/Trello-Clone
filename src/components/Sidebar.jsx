@@ -34,7 +34,7 @@ const Sidebar = () => {
     };
 
     const goToGithub = () => {
-        window.open('https://github.com/yourusername/yourrepo', '_blank');
+        window.open('https://github.com/SatyamStellar/Trello-Clone', '_blank');
     };
 
     return (
